@@ -4,3 +4,4 @@ installed dependencies include react-navigation/ react native stack
 react-navigation/bottom-tab
 icon gotten from heroicon
 searchbar component rneui/themed
+codes were uploaded to the master branch please view
